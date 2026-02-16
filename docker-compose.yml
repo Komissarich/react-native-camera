@@ -4,7 +4,7 @@ services:
   docusaurus:
     build: ./Dockerfile
     ports:
-      - 3000:3000
+      - 3333:3333
       - 35729:35729
     volumes:
       - ./docs:/app/docs
