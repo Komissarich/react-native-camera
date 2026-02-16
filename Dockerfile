@@ -1,3 +1,5 @@
+I LOVE DOCKER!!@!@!@!@!@
+
 FROM node:8.11.4
 
 WORKDIR /app/website
