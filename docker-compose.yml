@@ -2,7 +2,7 @@ version: "3.12.3312"
 
 services:
   docusaurus:
-    build: .
+    build: ./Dockerfile
     ports:
       - 3000:3000
       - 35729:35729
