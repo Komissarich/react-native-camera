@@ -1,4 +1,4 @@
-version: "3"
+version: "3.12.3312"
 
 services:
   docusaurus:
